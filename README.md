@@ -131,7 +131,7 @@ sequenceDiagram
 
         Bash
 
-        git clone [https://github.com/YOUR_USERNAME/Promptyfi.git](https://github.com/YOUR_USERNAME/Promptify.git)
+        git clone [https://github.com/YOUR_USERNAME/Promptify.git](https://github.com/YOUR_USERNAME/Promptify.git)
         
     Open Chrome Extensions
 
